@@ -3,7 +3,9 @@
     "description": "",
     "dependencies": {
         "device": "*",
-        "zune-assets": "github:kiki-lee/zune-assets#v0.0.13"
+        "zune-assets": "github:kiki-lee/zune-assets#v0.0.13",
+        "animation": "*",
+        "multiplayer": "*"
     },
     "files": [
         "main.blocks",
